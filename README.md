@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @GR1M-real
-- 👀 I’m interested in Coding/Gaming
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on MATLAB
-- 📫 How to reach me email
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: none
+-  Hi, I’m GR1M.
+-  I’m interested in Coding/Gaming.
+-  I’m currently learning Coding.
+-  I’m looking to collaborate on: C++
+-  Pronouns: he/him.
+  
 
 <!---
 GR1M-real/GR1M-real is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
